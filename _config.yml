@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://khaifoo.github.io
+title: ...but you cannot hide
+tagline: You can run...
+description: A repository for thoughts on running and life
+paginate: 5
